@@ -2,6 +2,7 @@
 Data Science Professional Project - Projekt zaliczeniowy
 ### Spis treści
 * [Opis](#opis)
+* [Dane i Dokumentacja](#dane-i-dokumentacja)
 * [Wymagania](#wymagania)
 * [Struktura danych](#struktura-danych)
 * [Analiza NPS](#[Analiza-NPS)
@@ -11,6 +12,10 @@ Data Science Professional Project - Projekt zaliczeniowy
 
 ## Opis
 W tym miejscu napisać wstęp dotyczacy projektu.
+
+## Dane i dokumentacja
+Dokumentacja w postaci kwestionariusza wraz z pierwotnie dostarczonymi danymi znajdują się w dedykowanym folderze [Dane i Dokumentacja](https://github.com/krancslawomir/Data-Science-Professional-Project/tree/main/Dane%20i%20Dokumentacja).
+
 
 ## Wymagania
 * [R](https://www.r-project.org/) min. wersja 4.1.1
