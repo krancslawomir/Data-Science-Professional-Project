@@ -22,9 +22,11 @@ Dokumentacja w postaci kwestionariusza wraz z pierwotnie dostarczonymi danymi zn
 * [R](https://www.r-project.org/) min. wersja 4.1.1
 * [RStudio](https://www.rstudio.com/)
 * Microsoft Excel
+
 Wspierane platformy:
 - Microsoft Windows
 - Linux
+
 Wspierane architektury:
 - x86 32 bit
 - x86 64 bit
