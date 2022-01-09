@@ -40,7 +40,7 @@ Całość analizy Bootstrap znajduje się w dedykowanym katalogu [Analiza Bootst
 
 ## Podsumowanie
 Projekt został zrealizowany w nastepującej grupie:
-### Sławomir Kranc
-### Aleksandra Grocholska
-### Mikołaj Klawitter
-### Dawid Jaskulski
+`Sławomir Kranc`
+`Aleksandra Grocholska`
+`Mikołaj Klawitter`
+`Dawid Jaskulski`
