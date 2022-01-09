@@ -12,7 +12,17 @@ Data Science Professional Project - Projekt zaliczeniowy
 * [Podsumowanie](#Podsumowanie)
 
 ## Opis
-W tym miejscu napisać wstęp dotyczacy projektu.
+Temat projektu: Analiza i wizualizacja dostarczonych danych.
+Grupowy projekt zaliczeniowy obejmujący analizę i wizualizację danych z wykorzystaniem metod i technik statystycznych z wykorzystaniem narzędzi i pakietów języka R.
+Dokumentacja projektowa wraz z dostarczonymi danymi dotyczą tematyki grzybów.
+Dane zostały zebrane w opraciu o wywiad kwestionariuszowy przeprowadzony z liczbą 200 repondentów.
+
+Analiza została przeprowadzona z wykorzystaniem następujących metod:
+- Analiza NPS
+- Analiza Brand Awarness
+- Analiza Brand Equity
+- Analiza Bootstrap
+
 
 ## Dane i dokumentacja
 Dokumentacja w postaci kwestionariusza wraz z pierwotnie dostarczonymi danymi znajdują się w dedykowanym folderze [Dane i Dokumentacja](https://github.com/krancslawomir/Data-Science-Professional-Project/tree/main/Dane%20i%20Dokumentacja).
@@ -34,7 +44,12 @@ Wspierane architektury:
 
 
 ## Struktura danych
-W tym miejscu opisać strukturę danych.
+Plik zawiera 167 kolumn oraz 201 wierszy.
+Dane zostały dostarczone w postaci plku .csv, a wartości są ze sobą odzielone średnikami (;)
+Kluczowe informacje dotyczące pliku ze zbiorem danych:
+- dane reprezentują odpowiedzi 200 respondentów
+- dane miejscami zawierają brakujące informacje (NA)
+- dane posiadają wartości skończone niemniejednak występują w nich wartości odstające tzn. outliers
 
 ## Analiza NPS
 Całość analizy NPS znajduje się w dedykowanym katalogu [Analiza NPS](https://github.com/krancslawomir/Data-Science-Professional-Project/tree/main/Analiza%20NPS).
