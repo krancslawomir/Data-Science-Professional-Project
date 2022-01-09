@@ -19,6 +19,7 @@ Dokumentacja w postaci kwestionariusza wraz z pierwotnie dostarczonymi danymi zn
 
 
 ## Wymagania
+Programy i aplikacje:
 * [R](https://www.r-project.org/) min. wersja 4.1.1
 * [RStudio](https://www.rstudio.com/)
 * Microsoft Excel
