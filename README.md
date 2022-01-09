@@ -9,6 +9,7 @@ Data Science Professional Project - Projekt zaliczeniowy
 * [Analiza Brand Awarness](#Analiza-Brand-Awarness)
 * [Analiza Brand Equity](#Analiza-Brand-Equity)
 * [Analiza Bootstrap](#Analiza-Bootstrap)
+* [Podsumowanie](#Podsumowanie)
 
 ## Opis
 W tym miejscu napisać wstęp dotyczacy projektu.
@@ -36,3 +37,10 @@ Całość analizy Brand Equity znajduje się w dedykowanym katalogu [Analiza Bra
 
 ## Analiza Bootstrap
 Całość analizy Bootstrap znajduje się w dedykowanym katalogu [Analiza Bootstrap](https://github.com/krancslawomir/Data-Science-Professional-Project/tree/main/Analiza%20Bootstrap).
+
+## Podsumowanie
+Projekt został zrealizowany w nastepującej grupie:
+### Sławomir Kranc
+### Aleksandra Grocholska
+### Mikołaj Klawitter
+### Dawid Jaskulski
