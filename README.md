@@ -7,7 +7,7 @@ Data Science Professional Project - Projekt zaliczeniowy
 * [Analiza NPS](#[Analiza-NPS)
 * [Analiza Brand Awarness](#Analiza-Brand-Awarness)
 * [Analiza Brand Equity](#Analiza-Brand-Equity)
-* [Analiza Bootstrap](#Analiza Bootstrap)
+* [Analiza Bootstrap](#Analiza-Bootstrap)
 
 ## Opis
 W tym miejscu napisać wstęp dotyczacy projektu.
