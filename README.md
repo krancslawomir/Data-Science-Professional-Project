@@ -18,10 +18,10 @@ Dokumentacja projektowa wraz z dostarczonymi danymi dotyczą tematyki grzybów.
 Dane zostały zebrane w opraciu o wywiad kwestionariuszowy przeprowadzony z liczbą 200 repondentów.
 
 Analiza została przeprowadzona z wykorzystaniem następujących metod:
-- Analiza NPS
-- Analiza Brand Awarness
-- Analiza Brand Equity
-- Analiza Bootstrap
+- Analiza NPS (Alekandra Grocholska)
+- Analiza Brand Awarness (Dawid Jaskulski)
+- Analiza Brand Equity (Sławomir Kranc)
+- Analiza Bootstrap (Mikołaj Klawitter)
 
 
 ## Dane i dokumentacja
@@ -64,6 +64,7 @@ Całość analizy Brand Equity znajduje się w dedykowanym katalogu [Analiza Bra
 Całość analizy Bootstrap znajduje się w dedykowanym katalogu [Analiza Bootstrap](https://github.com/krancslawomir/Data-Science-Professional-Project/tree/main/Analiza%20Bootstrap).
 
 ## Podsumowanie
+Tutaj napisać podsumowanie, wnioski, spostrzeżenia dotyczące analiz i projektu.
 Projekt został zrealizowany w nastepującej grupie:
 `Sławomir Kranc`
 `Aleksandra Grocholska`
