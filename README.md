@@ -30,4 +30,4 @@ Całość analizy Brand Awarness znajduje się w dedykowanym katalogu [Analiza B
 Całość analizy Brand Equity znajduje się w dedykowanym katalogu [Analiza Brand Equity](https://github.com/krancslawomir/Data-Science-Professional-Project/tree/main/Analiza%20Brand%20Equity).
 
 ## Analiza Bootstrap
-Całość analizy NPS znajduje się w dedykowanym katalogu [Analiza Bootstrap](https://github.com/krancslawomir/Data-Science-Professional-Project/tree/main/Analiza%20Bootstrap).
+Całość analizy Bootstrap znajduje się w dedykowanym katalogu [Analiza Bootstrap](https://github.com/krancslawomir/Data-Science-Professional-Project/tree/main/Analiza%20Bootstrap).
