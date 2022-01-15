@@ -28,6 +28,8 @@ Kluczowe informacje dotyczące pliku ze zbiorem danych:
 
 
 ## Wymagania
+#### ***WAŻNE! Plik z kodem w języku R (BrandEquity.R) oraz plik z danymi (Data.csv) należy umieścić w tym samym folderze!
+
 Programy i aplikacje:
 * [R](https://www.r-project.org/) min. wersja 4.1.1
 * [RStudio](https://www.rstudio.com/)
