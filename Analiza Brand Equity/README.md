@@ -56,12 +56,12 @@ Borowik (57,27%).
 
 
 ##  Pliki
-***BrandEquity.R*** - główna analiza wykonawcza (kod w języku R).
-***AddLabelsScript.R*** - kod pomocniczy służący do nadawania etykiet.
-***Data.csv*** - oryginalny plik źródłowy z danymi.
-***Brand.Health.Index.xlsx*** - pomocniczy plik służący do pogrupowania pytań do poszczególnej analizy.
-***Brand_Equity_Results.csv*** - plik wygenerowany z obliczeń w programie RStudio.
-***Brand_Equity_Analysis.xlsx*** - plik zawierający głębszą analizę, tabele przestawne oraz wykresy.
-***Kwestionariusz.Grupa.1.docx*** - dokumentacja oraz kwestionariusz pytań.
-***Wykres radarodwy.png*** - wykres radarowy dotyczący analizy grzybów.
-***Wykres słupkowy.png*** - wykres słupkowy dotyczący analizy grzybów.
+- ***BrandEquity.R*** - główna analiza wykonawcza (kod w języku R).
+- ***AddLabelsScript.R*** - kod pomocniczy służący do nadawania etykiet.
+- ***Data.csv*** - oryginalny plik źródłowy z danymi.
+- ***Brand.Health.Index.xlsx*** - pomocniczy plik służący do pogrupowania pytań do poszczególnej analizy.
+- ***Brand_Equity_Results.csv*** - plik wygenerowany z obliczeń w programie RStudio.
+- ***Brand_Equity_Analysis.xlsx*** - plik zawierający głębszą analizę, tabele przestawne oraz wykresy.
+- ***Kwestionariusz.Grupa.1.docx*** - dokumentacja oraz kwestionariusz pytań.
+- ***Wykres radarodwy.png*** - wykres radarowy dotyczący analizy grzybów.
+- ***Wykres słupkowy.png*** - wykres słupkowy dotyczący analizy grzybów.
