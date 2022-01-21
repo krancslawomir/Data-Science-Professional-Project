@@ -54,6 +54,8 @@ Na podstawie wykonanej analizy oraz przedstawionych danych można stwierdzić na
 Biorąc pod uwagę wszystkie powyższe wskaźniki składające się na całość analizy Brand Equity można powiedzieć, że najwyższą wartość wśród badanej grupy docelowej posiada
 Borowik (57,27%).
 
+![alt text](https://github.com/krancslawomir/Data-Science-Professional-Project/blob/main/Analiza%20Brand%20Equity/Wykres%20s%C5%82upkowy.png?raw=true)
+![alt text](https://github.com/krancslawomir/Data-Science-Professional-Project/blob/main/Analiza%20Brand%20Equity/Wykres%20radarowy.png?raw=true)
 
 ##  Pliki
 - ***BrandEquity.R*** - główna analiza wykonawcza (kod w języku R).
