@@ -11,6 +11,11 @@ Na podstawie wykonanej analizy oraz przedstawionych danych można stwierdzić na
 -> przewidywana wartość uprawniania kukurydzy w 2022 roku zmniejszy się w porównaniu z rokiem 2021 wsród badanych
 -> korelacja dla 2021 oraz 2022 wynosi 0,99025
 
+##Wykresy:
+Normal distribuation
+<img width="744" alt="obraz" src="https://user-images.githubusercontent.com/81513502/151712767-0fd6f9bf-e2a7-4e49-936d-040440e900b9.png">
+
+
 ## Pliki
 Data.csv - oryginalny plik źródłowy z danymi.
 
