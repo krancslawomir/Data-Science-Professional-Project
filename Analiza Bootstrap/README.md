@@ -6,10 +6,10 @@ Bootstrap polega na szacowaniu (estymacji) wyników poprzez wielokrotne losowani
 
 ## Analiza
 Na podstawie wykonanej analizy oraz przedstawionych danych można stwierdzić następujące fakty:
--> każdy z wykresów przedstawia rozkład normalny (dla normal distribuation | mean for current year | mean for next year)
--> rozkład stanu standardowego przedstawia linię równomiernego rozkładu (zaznaczone wartości są ułożone prawie idealnie na linii)
--> przewidywana wartość uprawniania kukurydzy w 2022 roku zmniejszy się w porównaniu z rokiem 2021 wsród badanych
--> korelacja dla 2021 oraz 2022 wynosi 0,99025
+• każdy z wykresów przedstawia rozkład normalny (dla normal distribuation | mean for current year | mean for next year)
+• rozkład stanu standardowego przedstawia linię równomiernego rozkładu (zaznaczone wartości są ułożone prawie idealnie na linii)
+• przewidywana wartość uprawniania kukurydzy w 2022 roku zmniejszy się w porównaniu z rokiem 2021 wsród badanych
+• korelacja dla 2021 oraz 2022 wynosi 0,99025
 
 ## Wykresy:
 Normal distribuation
